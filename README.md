@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou Tarcisio barbosa
 🎓 Estudante de Engenharia de Software  
-💻 Apaixonado por programação, lógica e resolver problemas  
-📚 Atualmente estudando: HTML, CSS, Git, Python  
+💻 Apaixonado por programação, logica e resolver problemas  
+📚 Atualmente estudando: GIT, GitHub, Python 
 🚀 Em busca de oportunidades na área de tecnologia
 
 ## 🔧 Tecnologias que estou aprendendo:
 - logica de programação
-- Git e GitHub
+- Git e GitHub, Python
 
 ## 📫 Contato:
 - [LinkedIn](https://linkedin.com/in/seulink)
