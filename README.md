@@ -9,5 +9,5 @@
 - Git e GitHub, Python
 
 ## 📫 Contato:
-- [LinkedIn](https://linkedin.com/in/seulink)
-- Email: Tarcísio Barbosa Passos Vieira
+- [LinkedIn](https://linkedin.com/in/tarcisiobarbosapassosvieira)
+- Email:tarcisio.pvieira@sempreceub.com
